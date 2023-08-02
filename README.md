@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesus Noe Echeverria Medina</h1>
 <h3 align="center">Hello! I am studying computer systems engineering and I enjoy web development. Specifically, I'm passionate about front-end development because I like people to see my work.</h3>
-<img src="/JesusEcheverria.github.io/Imgs/Header.png" alt="" />
+<img src="/EcheverriaJesus/Imgs/Header.png" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Profile%20views&color=0e75b6&style=flat" alt="echeverriajesus" /> </p>
 
