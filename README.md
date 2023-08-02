@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echeverriajesus" alt="echeverriajesus" /></a> </p>
 
-- 🔭 I’m currently working on **a school project on a web-based school control system (i’m studing)**
-
 - 🌱 I’m currently learning **Laravel, React & .Net**
 
 - 💬 Ask me about **Laravel, HTML, SASS, JAVA**
