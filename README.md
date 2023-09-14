@@ -8,8 +8,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">
-- 💼 My Portfolio: https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
+- 💼 <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">💼 My Portfolio: https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
 
 - 🌱 I’m currently learning **Laravel, React & .Net**
 
