@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina</h1>
 
-<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Engineer%20System%20Computer20%&center=true&width=500&height=50"></a>
+<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Engineer%20System%20Computer&center=true&width=500&height=50"></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Profile%20views&color=0e75b6&style=flat" alt="echeverriajesus" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Profile%20views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echeverriajesus" alt="echeverriajesus" /></a> </p>
 
