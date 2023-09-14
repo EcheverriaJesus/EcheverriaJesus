@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jesus Noe Echeverria Medina</h1>
+<h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina</h1>
+
+<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Engineer %20Computer%20System&20![Alt text](image.png)center=true&width=500&height=50"></a>
+
 <h3 align="center">Hello! I am studying computer systems engineering and I enjoy web development. Specifically, I'm passionate about front-end development because I like people to see my work.</h3>
 <img src="Pre.png" alt="" />
 
