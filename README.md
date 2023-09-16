@@ -7,10 +7,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+- 💼 **My Portfolio:** <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
 
-- 🟢 **My Portfolio:** <a href="https://uiverse.io/profile/EcheverriaJesus" target="blank">Here I have some</a>
-
-- 💼 **Do you need any components?** <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
+- 🟢 **Do you need any components?** <a href="https://uiverse.io/profile/EcheverriaJesus" target="blank">Here I have some</a>
 
 - 🌱 I’m currently learning **Laravel, React & .Net**
 
