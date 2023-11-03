@@ -4,11 +4,8 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
 <div align="center">
-<a ><img src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0"></a>
+<a ><img src="[https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)"></a>
 </div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
 
 - 💼 **My Portfolio:** <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
 
