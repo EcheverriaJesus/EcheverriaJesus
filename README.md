@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina</h1>
 <div align="center">
-<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Engineer%20System%20Computer&center=true&width=500&height=50&color=26023F"></a>
+<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Engineer%20System%20Computer&center=true&width=500&height=50&color=FFFF00"></a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
 <div align="center">
