@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐</h1>
 <div align="center">
-<a ><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00"></a>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
+ <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=000000">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
+</picture>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
 <div align="center">
   <h2 align="center">My Portfolio 💼🪐</h2>
 <div align="center">
 <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
+</div></br>
+<div align="center">
+  <h2 align="center">Some of my components (FREE) 🤯</h2>
+<div align="center">
+<a href="https://uiverse.io/profile/EcheverriaJesus" target="blank">UIVERSE</a>
 </div></br></br>
-<a ><img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"></a>
 </div>
 <div align="center">
   <h2 align="center">Tools || Technologies 🛠️</h2>
@@ -148,12 +156,6 @@
   </tr>
   <tr>
 </table></br>
-  <div align="center">
-  <h2 align="center">Some of my components (FREE) 🤯</h2>
-<div align="center">
-<a href="https://uiverse.io/profile/EcheverriaJesus" target="blank">UIVERSE</a>
-</div></br></br>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://instagram.com/jesus_echeverria_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus_echeverria_01" height="30" width="40" /></a>
