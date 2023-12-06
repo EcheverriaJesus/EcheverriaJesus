@@ -23,7 +23,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src="https://laravel.com/img/logomark.min.svg" width="40" height="40" alt="JavaScript" />
@@ -31,13 +31,13 @@
         <p align="center">Laravel</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://www.electronjs.org/es/" target="_blank" rel="noreferrer"><img src="https://www.electronjs.org/es/assets/img/logo.svg" width="40" height="40" alt="Gatsby" /></a>
         <p align="center">Electron</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="200px">
     <p align="center">
         <a href="https://es.react.dev/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
@@ -45,9 +45,7 @@
         <p align="center">React</p>
       </p>
      </td>
-  </tr>
-  <tr>
-    <td width="333px">
+      <td width="200px">
       <p align="center">
         <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
           <img src="https://q2i8y8f7.rocketcdn.me/wp-content/uploads/2023/06/CakePHP.webp" width="40" height="40" alt="Redux" />
@@ -55,13 +53,15 @@
         <p align="center">CakePhp</p>
       </p>
     </td>
-    <td width="333px">
+  </tr>
+  <tr>
+    <td width="200px">
       <p align="center">
         <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"><img src="https://released.info/assets/img/technologies/net/net-logo.png" width="50" height="35" alt="NextJS" /></a>
         <p align="center">Asp .Net</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
           <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
           <img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" width="40" height="40" alt="Firebase" />
@@ -69,9 +69,7 @@
         <p align="center">C#</p>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="333px">
+ <td width="200px">
       <p align="center">
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
           <img src="https://www.manualweb.net/img/logos/java.png" width="40" height="40" alt="JavaScript" />
@@ -79,13 +77,15 @@
         <p align="center">Java</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"><img src="https://blogs.masterhacks.net/wp-content/uploads/2019/10/masterhacks_php_vulnerabilidad_fpm_nginx.png" width="50" height="35" alt="Gatsby" /></a>
         <p align="center">PHP</p>
       </p>
     </td>
-    <td width="333px">
+  </tr>
+  <tr>
+    <td width="200px">
     <p align="center">
         <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" width="75" height="40" alt="React" />
@@ -93,9 +93,7 @@
         <p align="center">Javascript</p>
       </p>
      </td>
-  </tr>
-  <tr>
-    <td width="333px">
+ <td width="200px">
       <p align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
@@ -103,24 +101,23 @@
         <p align="center">CSS</p>
       </p>
     </td>
-  <td width="333px">
+  <td width="200px">
        <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
         </a>
         <p align="center">HTML5</p>
     </td>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
         </a>
         <p align="center">Tailwind</p>
       </p>
-    </td>
   </tr>
   <tr>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
@@ -128,7 +125,7 @@
         <p align="center">SASS</p>
       </p>
     </td>
-     <td width="333px">
+     <td width="200px">
       <p align="center">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://victorroblesweb.es/wp-content/uploads/2018/04/git.png" width="40" height="40" alt="Figma" />
@@ -136,16 +133,14 @@
         <p align="center">Git</p>
       </p>
     </td>
-    <td width="333px">
+    <td width="200px">
     <p align="center">
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
           <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm"/>
         </a>
         <p align="center">NPM</p>
     </td>
-  </tr>
-  <tr>
-    <td width="333px">
+    <td width="200px">
       <p align="center">
         <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png" width="40" height="38" alt="TailwindCSS" />
