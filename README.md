@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐</h1>
+<h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h1>
 <div align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
@@ -48,7 +48,7 @@
       <td width="200px">
       <p align="center">
         <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
-          <img src="https://q2i8y8f7.rocketcdn.me/wp-content/uploads/2023/06/CakePHP.webp" width="40" height="40" alt="Redux" />
+          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cakephp_original_logo_icon_146608.png" width="40" height="40" alt="Redux" />
       </a>
         <p align="center">CakePhp</p>
       </p>
