@@ -156,6 +156,6 @@
 <a href="https://instagram.com/jesus_echeverria_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus_echeverria_01" height="30" width="40" /></a>
 </p></br>
 
-![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=echeverriajesus&show_icons=true&theme=radical)
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=EcheverriaJesus&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcheverriaJesus&layout=compact&theme=buefy&hide_border=true" /></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EcheverriaJesus&layout=compact&theme=buefy&hide_border=true" />
