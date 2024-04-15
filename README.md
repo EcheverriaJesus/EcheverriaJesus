@@ -10,18 +10,18 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
 <div align="center">
-  <h2 align="center">My Portfolio 💼🪐</h2>
+  <h2 align="center">Mi Portafolio 💼🪐</h2>
 <div align="center">
 <a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
 </div></br>
 <div align="center">
-  <h2 align="center">Some of my components (FREE) 🤯</h2>
+  <h2 align="center">Componentes en Tailwind CSS (Libres) 🤯</h2>
 <div align="center">
 <a href="https://uiverse.io/profile/EcheverriaJesus" target="blank">UIVERSE</a>
 </div></br></br>
 </div>
 <div align="center">
-  <h2 align="center">Tools || Technologies 🛠️</h2>
+  <h2 align="center">Herramientas || Tecnologías 🛠️</h2>
 <div align="center">
 <table>
   <tr>
@@ -153,7 +153,7 @@
   </tr>
   <tr>
 </table></br>
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Conectemos:</h2>
 <p align="left">
 <a href="https://instagram.com/jesus_echeverria_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesus_echeverria_01" height="30" width="40" /></a>
 </p></br>
