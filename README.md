@@ -25,7 +25,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="200px">ñ
+    <td width="200px">
       <p align="center">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src="https://laravel.com/img/logomark.min.svg" width="40" height="40" alt="JavaScript" />
