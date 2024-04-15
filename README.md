@@ -1,4 +1,4 @@
-![just-the-basics](imgs/OperacionesBasicas.png)
+![just-the-basics](Diseño%20sin%20título.jpg)
 
 <h3 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
