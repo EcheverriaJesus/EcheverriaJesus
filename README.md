@@ -1,4 +1,4 @@
-<img src="./Diseño sin título.jpg" alt="Tecnologias" height="150">
+<img src="./Diseño sin título.jpg" alt="Tecnologias" height="150" width="100%">
 
 <h3 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
