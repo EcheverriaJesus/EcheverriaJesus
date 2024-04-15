@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h1>
+![just-the-basics](imgs/OperacionesBasicas.png)
+
+<h3 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
@@ -23,7 +25,7 @@
 <div align="center">
 <table>
   <tr>
-    <td width="200px">
+    <td width="200px">ñ
       <p align="center">
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img src="https://laravel.com/img/logomark.min.svg" width="40" height="40" alt="JavaScript" />
