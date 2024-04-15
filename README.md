@@ -1,6 +1,6 @@
 <img src="./Diseño sin título.jpg" alt="Tecnologias" height="370" width="100%">
 
-<h3 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h3>
+<h3 align="center">Hola 👋, soy Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
