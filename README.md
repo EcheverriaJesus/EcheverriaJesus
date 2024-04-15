@@ -1,4 +1,4 @@
-![just-the-basics](Diseño%20sin%20título.jpg)
+<img src="./Diseño sin título.jpg" alt="Tecnologias" height="150">
 
 <h3 align="center">Hi 👋, I'm Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
