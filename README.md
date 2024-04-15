@@ -1,11 +1,11 @@
-<img src="./Diseño sin título.jpg" alt="Tecnologias" height="370" width="100%">
+<img src="./Diseño sin título.jpg" alt="Tecnologias" height="330" width="100%">
 
 <h3 align="center">Hola 👋, soy Jesús Noé Echeverria Medina 🪐🚀</h3>
 <div align="center">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
- <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=000000">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer👨‍💻;Engineer%20System%20Computer👨‍💼&center=true&width=500&height=50&color=FFFF00">
+ <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web👨‍💻;Ingeniero%20en%20Sistemas%20Computacionales👨‍💼&center=true&width=500&height=50&color=FFFF00">
+ <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web👨‍💻;Ingeniero%20en%20Sistemas%20Computacionales👨‍💼&center=true&width=500&height=50&color=000000">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web👨‍💻;Ingeniero%20en%20Sistemas%20Computacionales👨‍💼&center=true&width=500&height=50&color=FFFF00">
 </picture>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echeverriajesus&label=Views&color=26023F&style=flat" alt="echeverriajesus" /> </p>
