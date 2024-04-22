@@ -12,7 +12,7 @@
 <div align="center">
   <h2 align="center">Mi Portafolio 💼🪐</h2>
 <div align="center">
-<a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria/</a>
+<a href="https://echeverriajesus.github.io/JesusEcheverria/" target="blank">https://echeverriajesus.github.io/JesusEcheverria/</a>
 </div></br>
 <div align="center">
   <h2 align="center">Componentes en Tailwind CSS (Libres) 🤯</h2>
