@@ -12,7 +12,7 @@
 <div align="center">
   <h2 align="center">Mi Portafolio 💼🪐</h2>
 <div align="center">
-<a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria.github.io/</a>
+<a href="https://echeverriajesus.github.io/JesusEcheverria.github.io/" target="blank">https://echeverriajesus.github.io/JesusEcheverria/</a>
 </div></br>
 <div align="center">
   <h2 align="center">Componentes en Tailwind CSS (Libres) 🤯</h2>
@@ -24,6 +24,7 @@
   <h2 align="center">Herramientas || Tecnologías 🛠️</h2>
 <div align="center">
 <table>
+ 
   <tr>
     <td width="200px">
       <p align="center">
@@ -49,29 +50,16 @@
      </td>
       <td width="200px">
       <p align="center">
-        <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/cakephp_original_logo_icon_146608.png" width="40" height="40" alt="Redux" />
+        <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+          <img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="40" height="40" alt="Redux" />
       </a>
-        <p align="center">CakePhp</p>
+        <p align="center">Spring Boot</p>
       </p>
     </td>
   </tr>
+ 
   <tr>
-    <td width="200px">
-      <p align="center">
-        <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"><img src="https://released.info/assets/img/technologies/net/net-logo.png" width="50" height="35" alt="NextJS" /></a>
-        <p align="center">Asp .Net</p>
-      </p>
-    </td>
-    <td width="200px">
-      <p align="center">
-          <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="_blank" rel="noreferrer">
-          <img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" width="40" height="40" alt="Firebase" />
-          </a>
-        <p align="center">C#</p>
-      </p>
-    </td>
- <td width="200px">
+   <td width="200px">
       <p align="center">
         <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
           <img src="https://www.manualweb.net/img/logos/java.png" width="40" height="40" alt="JavaScript" />
@@ -85,9 +73,7 @@
         <p align="center">PHP</p>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="200px">
+     <td width="200px">
     <p align="center">
         <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" width="75" height="40" alt="React" />
@@ -95,7 +81,7 @@
         <p align="center">Javascript</p>
       </p>
      </td>
- <td width="200px">
+     <td width="200px">
       <p align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40" alt="CSS3" />
@@ -103,6 +89,9 @@
         <p align="center">CSS</p>
       </p>
     </td>
+  </tr>
+  
+  <tr>
   <td width="200px">
        <p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
@@ -117,9 +106,8 @@
         </a>
         <p align="center">Tailwind</p>
       </p>
-  </tr>
-  <tr>
-    <td width="200px">
+     </td>
+      <td width="200px">
       <p align="center">
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="40" height="40" alt="Sass" />
@@ -135,7 +123,10 @@
         <p align="center">Git</p>
       </p>
     </td>
-    <td width="200px">
+  </tr>
+  
+  <tr>
+   <td width="200px">
     <p align="center">
         <a href="https://npmjs.org/" target="_blank" rel="noreferrer" >
           <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="40" alt="npm"/>
